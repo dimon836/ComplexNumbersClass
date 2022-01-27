@@ -1,3 +1,0 @@
-C:/Users/Dima/CLionProjects/PhysicalProg/cmake-build-debug/CMakeFiles/PhysicalProg.dir
-C:/Users/Dima/CLionProjects/PhysicalProg/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Dima/CLionProjects/PhysicalProg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
